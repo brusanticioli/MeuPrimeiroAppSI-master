@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppSI</string>
+    <string name="txt_hint">Escrever uma Mensagem</string>
+    <string name="txt_botao">Envie</string>
+</resources>
